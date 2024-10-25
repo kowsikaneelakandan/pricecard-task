@@ -1,4 +1,4 @@
-import './PriceCard.css'
+import './Pricecard.css'
 function PriceCard(){
     const subscriptionplans =[
         {
